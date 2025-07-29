@@ -5,8 +5,8 @@ This interactive dashboard provides a comprehensive analysis of AI tool adoption
  ##Data Set -- https://github.com/AyushaSarvaiye/Data-Analysis--Dashboard/blob/main/Ai%20Tools%20Usage%20-%20Clg%20Student.xlsx
  
  ##Dashboard Image -- https://github.com/AyushaSarvaiye/Data-Analysis--Dashboard/blob/main/Screenshot%202025-07-22%20235744.png  
- <img width="1329" height="745" alt="Screenshot 2025-07-23 134809" src="https://github.com/user-attachments/assets/bfdea938-fa25-4f60-a01c-82d79bf2b773" />
 
+ <img width="1515" height="988" alt="Screenshot 2025-07-22 235744" src="https://github.com/user-attachments/assets/e128930b-ed93-4032-8f1b-eb10e5902bda" />
  
 Key Insights Covered:
 Total Students Surveyed:
